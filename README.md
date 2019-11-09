@@ -28,3 +28,10 @@
 本仓库的程序是在https://github.com/GallenQiu/-book118- 的基础上稍加改动
 
 在2019.11.5时https://github.com/GallenQiu/-book118- 的程序不能正常运行，本仓库的程序可以正常运行
+
+测试时运行的环境为python3.8
+beautifulsoup4             4.8.1
+PyMuPDF                    1.16.6
+reportlab                  3.5.32
+requests                   2.22.0
+urllib3                    1.25.6
